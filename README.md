@@ -73,12 +73,25 @@ The costly signalling theory was very interesting to me. It outlines the more ef
 Week 4
 
 What have I learnt this week?
+The main thing I learned this week was representing human centred complex systems through system dynamics. The dynamics of a system help us further our understanding of systems as we learn about the main components and ways of thinking in systems. Mainly, System boundaries, system archetypes and thinking in systems. Similarly, I learned about parts of a systems model. These would later become important in the assignment.
+
 What do I 'now know' that I did not before?
+I now know that system dynamcis are very important in models and learning these characterisitcs help me to understand systems and how they work as well as how to read these systems. Reading these systems bring knowledge on what the system is trying to convey. ALthough I could visualise the system I can now read and see what it is conveying.
+
 What insights have I gained?
+The insights that I have gained are mainly a deeper understanding of the characteristics of systems and systems in models as system dynamics explore the notion of characterising parts of the system. This gives parts of the system a visual element that I can see what it is doing. This is an insight as it helps me see what parts of the system are doing what.
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+Some weaknesses that I have found during these weeks were the understanding of networks. Althought I had studied them during my highschool years coming back to Uni I had to relearn most of the content. Coming back I was struggling to make and understand them again as I was mixing up the ways you could move through networks and wrap my head around the new content in these networks. However, this weakness had turned into a stregnth as now I am back to my understanding of networks and making networks has never been eaiser.
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Some challenges I encountered this week was getting around the computational aspect of agent based modelling. As we know agent based modelling usually revolves around being able to make a model simulating the actions and interactions of autonomous agents with a view to assessing their effects on the system as a whole. However, havig it be done on a computer most of the time this was an issue as I seem to struggle when learning about new aspects revolving around computers. In saying this, Having help from my peers helped me learn about new ways to help myself and get around this challenge.
+
 What would I do better next time and with what anticipated results?
+What I would do better next time is do the readings before my workshop. This week I had been caught up in other aspects of my life and did not read before my workshop. This became a bigger issue than I had expected leaving me having to catch up while I was listening. If I had further planned ahead this wekk would not have been an issue as much as it was.
+
 What theory proved to be useful and why? What have I learnt from this?
+What proved to be useful this week was the logic of network formation. With this understanding of network formation it helped me further improve on my knowledge of networks as well as also help me work through this weeks challenge. What I have learnt from this is to back track on my notes when stuck as they definitely come in handy when faced with a challenge.
 
 Week 5
 
