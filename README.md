@@ -137,7 +137,7 @@ What would I do better next time and with what anticipated results?
 What I would do better this week is getting my work done early. This week I had done my work later rather than sooner. This would have anticipated result of putting less stress on me as I would not have to worry about my work being done.
 
 What theory proved to be useful and why? What have I learnt from this?
-
+What proved useful this week was Contagion: The SIR model. This model helped me understand how pathogens can spread and how to put them into the model. This was especially useful for me this week as it allowed me to understand our more recent Covid 19 outbreak. I have also learnt from this as it will help me significantly in my assignment where I have to model the Covid 19 outbreak in a model.
 
 Week 7
 
@@ -188,25 +188,25 @@ What proved to be useful Collective Action problem. In the collective action pro
 Week 9
 
 What have I learnt this week?
-
+What I have learnt this week is I should be asking questions in the Q and A’s as many aspects of my assignment would have been hard to work through. Without asking these questions to my administrators working on my assignment would have been more difficult as they can always just give me a straight out answer. This is demonstrated through understanding the coding and non coding options. Without understanding what was being asked me and my group would have been stuck figuring it out.
 
 What do I 'now know' that I did not before?
-
+What I now know is that there are no dumb questions. Althought it is a little cliche it is ok to ask simple questions as they can remove a big burden that may be holding you back in your study and your best.
 
 What insights have I gained?
-
+An insight that I have gained is that it is ok to ask questions even if they might be silly to ask. In saying this asking the questions that were silly seemed to calm me down with some issues that were stressing me a little bit so then I could more clearly ask more difficult questions. Without this, I may have been struggling with my assignment more.
 
 What are (my/the) perceived strengths and weaknesses that I have observed?
-
+A weakness I have noticed this week would be getting stressed over minimal issues. Getting stressed seems to have the effect of impacting my work negatively. However, this is counteracted by a technqiue I can use to my advantage (a strength you could say) where I take a break and do something that I enjoy that is relaxing e.g. watch youtube and have a drink. I turn this problem into a solution by calming myself down where I can work again
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+A challenge that I faced this week was getting on top of my other subjects as all my assignments needed to be done in close proximity. This was an issue as I need to be able to get all my classes done and still work on all my assignments at once. This was handled well as I could find allocated time to work on each of my assignments and still have them finished by the due date.
 
 What would I do better next time and with what anticipated results?
-
+What I would do better next time is start earlier on my assignments. It was not that I started late however I did not account for the fact that all my assignments would be due at the same time leaving progress for all of them slower than expected. Therefore, next time it would be in my best interest to start earlier.
 
 What theory proved to be useful and why? What have I learnt from this?
-
+What proved to be useful was the help my administrators gave this week. Throughout this semester my administrators would always respond to my messages and questions that I have which was very beneficial as I could get answers to questions about work that would make me get stuck. What I have learnt is that people are there to help when you have an issue that you cannot solve.
 
 
 Week 10
@@ -235,25 +235,25 @@ What theory proved to be useful and why? What have I learnt from this?
 week 11
 
 What have I learnt this week?
-
+What I have learnt this week is the importance of editing. During our project we have been constantly changing parts of the assignment. For example, the chosen Schelling model of segregation had to be rewritten by me as we as a group decided the stock and flow model was a better option. This was a continuous theme over the course of the project where various subjects such as the conceptual models section had to be constantly updated. However, without this editing many parts of the assingment would have been unreadable.
 
 What do I 'now know' that I did not before?
-
+What I now know is that without the editing and peer review much of my work could have been misinterpreted or straight out incorrect. Without my team’s overview and input this project would have been very difficult. For example, Aline and Lara offered to do the coding aspect of the assignment. Which would have left me stuck and unable to do that part of the assignment for which I am grateful for.
 
 What insights have I gained?
-
+An insight that I have gained is that my team members did great. We as a group worked together throughout the whole semester scheduling meetings and working through the project together. Therefore, the insight that I have gained is that the team members that I have were really helpful to complete the assingment.
 
 What are (my/the) perceived strengths and weaknesses that I have observed?
-
+A weakness that I noticed would be the fact that I have little coding experience. If I were to be allocated in a group where they wanted me to do the coding aspect of the assingment I would have struggled serverly. However, A strength that I observed would be the work that I did on models was stronger than my poor coding ability.
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+A challenge that I encountered this week was the ability to find a quiet space. During this week there was work going on through my neighbour hood making it nearly impossible to get my work done as there was loud construction going on. This was handled poorly as I just decided not to work.
 
 What would I do better next time and with what anticipated results?
-
+What I would do better next time is to go to a library as this would allow me to get my work done rather than just ignore it completely. This would have the anticipated result of getting my work done early where I have learned is better than not doing it at all.
 
 What theory proved to be useful and why? What have I learnt from this?
-
+What proved to be useful this week was 
 
 week 12
 
