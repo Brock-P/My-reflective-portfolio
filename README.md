@@ -96,71 +96,184 @@ What proved to be useful this week was the logic of network formation. With this
 Week 5
 
 What have I learnt this week?
+This week a new subject was brought to be. Probability distributions. Althought I have previously studies distributions and probability alone, mixing these two was completely new to me.It brought a whole new outlook on the work I have been doing this semester. Similarly, I learned how this new subject can tie into statistics which I have been very fond of.
+
 What do I 'now know' that I did not before?
+What I know now that I did not know before are some of the mathematical formulas that can be integrated into probability distributions. These formulas assist in producing an output that can be expected with the distribution but also help us create a distribution to visualise what is to be expected.
+
 What insights have I gained?
+Insights that I have gained is a deeper understanding of the links between distribution and probability. As we know seperate they can be extremely useful to predict and help demonstrate spread in data. Intertwining these components significantly assist in how likely one can could find the possible values of random variable. This is phenominally helpful as it will help me in later modelling. Therefore, this insight of gaining a deeper understanding of the links between distribution and probability helps me later in my studies.
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+A strength I have observed was working with statistics. In canvas the "Dancing with Statistics" sub-heading was especially easy for me. Usually when coming across number related work I must take time to understand. However, this week it came with relative ease. However, A weakness that was when faced with a question it was hard for me to deduce what it was asking. When in the breakout rooms during the workshop while working as a team I found myself behind a little as a result of the question but once it was explained to me to work was done quickly.
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+As stated before a challenge that was faced this week was understanding questions during the workshop. Throughout my schooling career I have mainly only struggled on how to answer the question rather than what it was asking. I was not sure if this was one off but this week posed quite the challenge. However, due to the help of my peers in the breakout room they could explain what it was asking which helped me significantly to the point where I could answer the questions with relative ease.
+
 What would I do better next time and with what anticipated results?
+Due to the need of having a peer explain the question. With hindsight I could've broken down the question and taken it slower. I'm not sure what happened this week but focussing and breaking down the question would have significantly changed the challenge of this week. In essence next time a slower approach would be better with anticipated results of answering the question eaiser.
+
 What theory proved to be useful and why? What have I learnt from this?
+The theory that proved to be useful this week is the The mighty Central Limit Theorem which is a simple and effective model for aggregation of decisions in groups of people. This proved useful as we can use to make predictions about what will happen. Without this we would be making more a complicated analysis of data to get the same answer. What I have learned is that it is beneficial to find eaiser paths to get to the same answer.
 
 Week 6
 
 What have I learnt this week?
+What I learned this week was the evolution of systems. In systems they can change through various outside impacts which can leave the need for a system to change to function properly. This is demonstrated through various canvas explainations on path dependance and the Urn model.
+
 What do I 'now know' that I did not before?
+To be straight forward, What I now know is that systems can evolve in the first place. At first I thought they were static and unchanging as a system that could change entirely could possibly stop functioning as a result of incompatible components. However, I know now that systems change all the time and can adapt.
+
 What insights have I gained?
+The inisght that I have gained is the furthered knowledge I have on systems. As stated before systems can change. This has flipped my view on systems and in essence changed what I thought I knew about systems. Therefore, through deepening my knowledge on systems I have gained an insight on my work in systems.
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+A strength I have observed this week is my ability to pick up on new information. For example, this new knowledge on systems encouraged me to deepen my knowledge on systems. However, this can also come as a weakness as I may find myself learning the wrong information.
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge that I faced this week was getting behind the random walks. This week I was struggling as I could not understand what the sources where trying to convey. I believe it was due to the whole random aspect which was confusing me. However, After following sources online and re-reading some more content I believe I started to understand the concept.
+
 What would I do better next time and with what anticipated results?
+What I would do better this week is getting my work done early. This week I had done my work later rather than sooner. This would have anticipated result of putting less stress on me as I would not have to worry about my work being done.
+
 What theory proved to be useful and why? What have I learnt from this?
+
 
 Week 7
 
 What have I learnt this week?
+What I have learnt this week is importance of great teamwork and chemistry. I realised now that others input is valid and important to me as it gives me a different perspective and helps me complete my goals. This week while working on the assignment as we work together I noticed how well people can work together which gave me the appreication for my group members.
+
 What do I 'now know' that I did not before?
+I've always believed that work together is usually better. As demonstrated through the common saying "two minds are better than one." but now I know its true because I've truly experienced it this week. Usually people in the group are putting in minimal effort just enough to get the job done. However, now that I know my group members are putting in a great deal of effort and giving it meaning. I know that working together is better.
+
 What insights have I gained?
+An insight that I have gained is understanding the group dynamic. As everyone has their own personal lives and can be busy at times when I am not and vice versa. I have gained the insight that understanding how the group can function while facing various other aspects in lives is vital.
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+A strength I have observed this week is planning and being organised. As stated before many people in the group seem to be unable to find a good time to meet. However, getting on top of things and getting it done early significantly helped us in finding time to meet and work on the assignment. A weakness however, was the fact that we struggling to get the ball moving and start working straight away. This had an impact as the metting went on for longer than expect and we burnt out.
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge that our group faced this week was the fact that we were getting distracted heavily at the start of our meeting. This was handled poorly as we continued to not work for an extended period of time which led to us burning out and getting tired with minimal work done.
+
 What would I do better next time and with what anticipated results?
+What I would do better next time would be to take initiative and try to get the group working quickly so we can all go back to relaxing or go back to our distractions after the work was done.
+
 What theory proved to be useful and why? What have I learnt from this?
+Fisher's Theorem proved to be useful this week as it  allows us to combine the models. As stated we struggled to get a move on and work during our call. However, we all knew about this theorem and we could quickly implement it into our work allowing us to swiftly get the job done to start getting a move on. What I learned was that starting work can be very slow but taking small steps can finally get us to start working.
 
 Week 8
 
 What have I learnt this week?
+What I learnt this week was the importance of cooperation. Althought I have noted that working together is important, this week I have learned the why. Through the various sources on canvas and the various videos on the prisoners dilemma I know know the why in why cooperation is important.
+
 What do I 'now know' that I did not before?
+What I now know about cooperation is that it is mutually beneifical for all of us to work together and complete our assignment. This is demonstrated through how we all want to get good marks in our assignment so we work together and use our stronger abilities to help those with weaker abilities in the field where we are stronger.
+
 What insights have I gained?
+An insight that I have gained is to be organised. This week I was away in queensland. This made it incredibly difficult to get my work done as I simply did not have time as a result of competing. If I had been more orgaised I could've got my work done before hand.
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+A strength that I observed was my ability to get on top of my work and catach up quickly. However, this is comes at a cost as I realised how much content I missed which led me to going back over everything. In essence, a weakness of mine was going to quickly which seems to be a reoccuring theme e.g. week 1 going to quickly.
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge I faced was the fact that I was away across the country. This left me with poor internet and a busy schedule competeing. However, was faced well as I caught up quickly as a result of my helpful peers.
+
 What would I do better next time and with what anticipated results?
+What I would do better next time is do my work before I go knowing that I am going to miss a weeks worth of work rather than try to do it when I am away and after. This would hopefully mitigate much off the stress or trying to do my work.
+
 What theory proved to be useful and why? What have I learnt from this?
+What proved to be useful Collective Action problem. In the collective action problem if make a choice to contribute the contribution comes at a cost. This brought a new perspective on my group work throughout this week. For example, when I dont contribute because I am away it comes at a cost where the assignment does not get finished. This taught me that it is important to help out my group memebers as we all have a collcetive goal.
 
 Week 9
 
 What have I learnt this week?
+
+
 What do I 'now know' that I did not before?
+
+
 What insights have I gained?
+
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+
 What would I do better next time and with what anticipated results?
+
+
 What theory proved to be useful and why? What have I learnt from this?
+
+
 
 Week 10
 
 What have I learnt this week?
+
+
 What do I 'now know' that I did not before?
+
+
 What insights have I gained?
+
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+
 What would I do better next time and with what anticipated results?
+
+
 What theory proved to be useful and why? What have I learnt from this?
+
 
 week 11
 
 What have I learnt this week?
+
+
 What do I 'now know' that I did not before?
+
+
 What insights have I gained?
+
+
 What are (my/the) perceived strengths and weaknesses that I have observed?
+
+
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+
 What would I do better next time and with what anticipated results?
+
+
 What theory proved to be useful and why? What have I learnt from this?
 
+
 week 12
+
+What have I learnt this week?
+
+
+What do I 'now know' that I did not before?
+
+
+What insights have I gained?
+
+
+What are (my/the) perceived strengths and weaknesses that I have observed?
+
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+
+What would I do better next time and with what anticipated results?
+
+
+What theory proved to be useful and why? What have I learnt from this?
+
