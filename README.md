@@ -253,7 +253,7 @@ What would I do better next time and with what anticipated results?
 What I would do better next time is to go to a library as this would allow me to get my work done rather than just ignore it completely. This would have the anticipated result of getting my work done early where I have learned is better than not doing it at all.
 
 What theory proved to be useful and why? What have I learnt from this?
-What proved to be useful this week was 
+What proved to be useful this week was the support of my team members and family as they could help where needed e.g. keeping me updated on progress or helping me find time to work. This significantly assisted in my work on the project. What I learned from this is that the people around me have my best intrest and want me to succeed and do well in my studies.
 
 week 12
 
