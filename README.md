@@ -212,25 +212,25 @@ What proved to be useful was the help my administrators gave this week. Througho
 Week 10
 
 What have I learnt this week?
-
+What I learnt this week was some fundamentals of python. This week me and Dev decided to help the group members in our group working on the coding aspect of the project. Me and Dev found some videos on the fundamentals of python and some syntax as that was an issue that was facing them this week. 
 
 What do I 'now know' that I did not before?
-
+What I now know is that python is more simple than I thought it was. When looking at code it can become very overwhelming as it seems like a different language. However, once you can see that they are just simple statements for a computer to follow it can become much easier to understand. 
 
 What insights have I gained?
-
+An insight that I gained was how important coding can be. Due to a low amount of people learning code and how important it can be an insight that I have made is that coding is a very useful tool. For example, it is something I can put on my resume if I continue to follow up in my study of coding which would be very beneficial for me.
 
 What are (my/the) perceived strengths and weaknesses that I have observed?
-
+A strength I have observed was my ability to work in a group as I could use my certain knowledge on what I had studied recently to help in the project. However, a weakness that I found was that I was not as competent in coding as I thought as various issues arose but was solved thanks to the help of my team members.
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+A challenge I observed was more complicated coding. As we worked on fixing problems throughout our code I noticed I struggled on content that was more advanced. I'm sure if I had put in more time to work on code I would be able to fix these issues however, it was a significant challenge to fix the coding issues but all was solved thanks to the help of my team members.
 
 What would I do better next time and with what anticipated results?
-
+What I would do better next time is ask for help when stuck as I was sitting on one issue for much longer than needed. This could have been avoided as when my team members came around they solved it quickly. What I learned to do was ask for help. This would have a result of fixing issues quicker.
 
 What theory proved to be useful and why? What have I learnt from this?
-
+What proved to be useful this week was my team members many skills in coding. Without their ability to code it would have been a stressful week in trying to complete the project as many issues arose that I could not solve.
 
 week 11
 
@@ -258,22 +258,22 @@ What proved to be useful this week was the support of my team members and family
 week 12
 
 What have I learnt this week?
-
+What I learnt this week was the need to get things done early. Due to this week not having notes because it is the same week as the due date. I realise that getting it done early would prevent me from being awake at 1:24am the day of submission. Because this could not be written early and I have forgotten to write this week, organising myself and finishing would prevent me from stressing and being awake at such a late hour.
 
 What do I 'now know' that I did not before?
-
+What I now know that being awake so late and work on assignments can have a detrilmental affect on my work. From various spelling errors I have picked up on and a decline in quality I now know the impact sleep deprevation can have. This can be very dangerous to my school career as it can not be kept up and could utilimately damage my schooling career.
 
 What insights have I gained?
-
+An insight that I have gained is the fact that sleep is very important especially for school work. As I ramble about sleep (maybe because I am tired) I realise how important it is to be healthy and well rested for all aspects of my life. Without staying healthy and being able to function at a good level I have gained a deeper understanding on my health and a whole and how it can affect all aspects of my life.
 
 What are (my/the) perceived strengths and weaknesses that I have observed?
-
+A strength that I have observered this week is my work ethic. Althought I can get distracted once I am working I can manage to put my head down and complete the work that is needed. However, a weakness that I have observed is that I keep putting off my work and not be able to get to a point that I can really use my work ethic.
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+A challenge that I encountered this week was the stress of all my subject assingments. As is to be expected all assignments end around on the same time needing me to be able to organise and finish them all with time left. However, as a result of other aspects of my life and thinking I had more time stress became an issue as I started to run out of time. This definetly affected my work for the worse. However, this was handled to varying degrees as I completed them with time to spare but had to detriment my health by staying awake at late hours.
 
 What would I do better next time and with what anticipated results?
-
+What I would do better next time would be to organise early and schedule things better. This would have a result of me being comfortable with my progress on assignments and me having a healthier lifestyle due to better sleeping and eating patterns.
 
 What theory proved to be useful and why? What have I learnt from this?
-
+What proved to be useful this week was the final workshop. I am grateful for my administrators as they have been very helpful in my first subject at university. In our final workshop we went over everything in our semester this year which helped me edit and finalise this reflection. What I have learned is that my professors are here to help me in my studies.
